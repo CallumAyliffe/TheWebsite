@@ -82,7 +82,7 @@ body {
   letter-spacing: -2px;
 }
 
-body-main:link {
+a:link {
   text-decoration: underline;
   color: var(--black);
 }
@@ -311,6 +311,7 @@ section {
   max-height: 80%;
   align-items: center;
 }
+
 
 
 
