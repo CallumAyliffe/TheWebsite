@@ -82,6 +82,11 @@ body {
   letter-spacing: -2px;
 }
 
+body:link {
+  text-decoration: underline;
+  color: var(--black);
+}
+
 .wrap {
   font-family: CodePro;
   color: #222;
@@ -306,5 +311,6 @@ section {
   max-height: 80%;
   align-items: center;
 }
+
 
 
