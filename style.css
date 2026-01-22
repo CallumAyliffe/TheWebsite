@@ -75,6 +75,7 @@ body {
   color: var(--black);
 }
 
+
 .body-projects {
   font-family: CodePro;
   color: #222;
@@ -82,8 +83,6 @@ body {
   font-size: 20px ;
   letter-spacing: -2px;
 }
-
-
 
 .wrap {
   font-family: CodePro;
@@ -120,12 +119,10 @@ h3 {
   font-size: 25px;
 }
 
-h3:link {
+h3:visited {
   text-decoration: underline;
   color: var(--black);
 }
-
-
 
 
 
@@ -309,9 +306,4 @@ section {
   max-height: 80%;
   align-items: center;
 }
-
-
-
-
-
 
