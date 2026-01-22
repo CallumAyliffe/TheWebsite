@@ -72,6 +72,7 @@ body {
   font-size: 25px;
   letter-spacing: -3px;
   line-height: 1.4;
+  color: var(--black);
 }
 
 .body-projects {
@@ -82,10 +83,7 @@ body {
   letter-spacing: -2px;
 }
 
-a:link {
-  text-decoration: underline;
-  color: var(--black);
-}
+
 
 .wrap {
   font-family: CodePro;
@@ -311,6 +309,7 @@ section {
   max-height: 80%;
   align-items: center;
 }
+
 
 
 
