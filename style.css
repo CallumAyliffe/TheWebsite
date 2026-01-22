@@ -117,6 +117,11 @@ h3 {
   font-size: 25px;
 }
 
+h3:link {
+  text-decoration: underline;
+  color: var(--black);
+}
+
 
 
 
@@ -301,4 +306,5 @@ section {
   max-height: 80%;
   align-items: center;
 }
+
 
